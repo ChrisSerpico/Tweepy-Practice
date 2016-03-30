@@ -1,3 +1,6 @@
+# Please do not look at my secrets
+secrets.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
